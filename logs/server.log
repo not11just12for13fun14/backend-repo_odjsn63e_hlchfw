@@ -1,0 +1,27 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [155] using StatReload
+INFO:     Started server process [157]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:54712 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:56284 - "GET /api/vaccines HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56274 - "GET /api/children HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56284 - "GET /api/vaccines HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56274 - "GET /api/children HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56294 - "GET /api/appointments HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56284 - "GET /api/vaccines HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56306 - "GET /api/children HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56294 - "GET /api/appointments HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56284 - "GET /api/vaccines HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56306 - "GET /api/children HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56316 - "GET /api/children HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56316 - "GET /api/vaccines HTTP/1.1" 200 OK
+INFO:     172.20.0.1:33356 - "GET /api/appointments HTTP/1.1" 200 OK
+INFO:     172.20.0.1:33360 - "GET /api/children HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56316 - "GET /api/vaccines HTTP/1.1" 200 OK
+INFO:     172.20.0.1:33356 - "GET /api/appointments HTTP/1.1" 200 OK
+INFO:     172.20.0.1:33360 - "GET /api/children HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56316 - "GET /api/vaccines HTTP/1.1" 200 OK
+INFO:     172.20.0.1:33360 - "GET /api/children HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56316 - "GET /api/vaccines HTTP/1.1" 200 OK
